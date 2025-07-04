@@ -22,8 +22,12 @@
 Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе `Firing`, и скриншот из Alertmanager,  
 где будет видно действующее правило оповещения.
 
+
 **Скриншот Alerts из Prometheus**  
 ![Скриншот Alerts из Prometheus](img/2.png)
+
+**скриншот из Alertmanager**  
+![Скриншот из Alertmanager](img/6.png)
 
 ---
 
